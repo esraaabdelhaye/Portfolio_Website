@@ -1,0 +1,27 @@
+Waiting
+(1) add a line which appears when you hover over the links in the nav bar 
+the line need to appear from the middle all the way till it reaches the two sides 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Done 
+(1) to make the nav bar transparent and when I scroll it should change it's color this needs to get done by js
