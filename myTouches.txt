@@ -2,7 +2,10 @@ Waiting
 (1) add a line which appears when you hover over the links in the nav bar 
 the line need to appear from the middle all the way till it reaches the two sides 
 
-
+(2) Make It Responsive By Making A Toggle Nav Bar and Adjust The Main Section
+(3) Make The Footer
+(4) Add All The Projects
+(4) Publish The Website On Linkedin And Github
 
 
 
